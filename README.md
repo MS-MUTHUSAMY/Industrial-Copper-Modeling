@@ -1,16 +1,16 @@
-Industrial Copper Modeling
+**Industrial Copper Modeling**
 
-Introduction
+**Introduction**
 
     The Industrial Copper Modeling project focuses on predicting the selling price and status (won or lost) in the industrial copper market using machine learning regression and classification algorithms. By exploring the dataset, performing data cleaning and preprocessing, and applying various machine learning techniques, we aim to develop models that can accurately predict the selling price and status in the copper market.
 
-Dataset
+**Dataset**
 
     The dataset used for this analysis contains information about industrial copper transactions, including variables such as selling price, quantities, and status (won or lost). It provides a comprehensive view of the copper market and factors that influence the outcomes of transactions.
 
-Project Learnings
+**Project Learnings**
 
-The main learnings from this project are as follows:
+**The main learnings from this project are as follows:**
 
     Exploring Skewness and Outliers: Analyze the distribution of variables in the dataset and identify skewness and outliers. This step helps in understanding the data quality and potential issues that may affect the model performance.
 
@@ -22,7 +22,7 @@ The main learnings from this project are as follows:
 
     Evaluation and Model Selection: Evaluate the performance of regression and classification models using appropriate metrics such as    mean squared error (MSE), accuracy, precision, and recall. Select the best-performing models based on these metrics.
 
-Requirements
+**Requirements**
 To run this project, the following libraries are needed:
 
     * NumPy: A library for numerical computations in Python.
@@ -32,7 +32,7 @@ To run this project, the following libraries are needed:
     * Seaborn: A data visualization library built on top of Matplotlib.
 Make sure these libraries are installed in your Python environment before running the project.
 
-Methodology
+**Methodology**
 
 1.Data Loading:
   Load the industrial copper dataset into the code using pandas library. Perform initial data exploration to understand the structure and content of the dataset.
@@ -52,10 +52,10 @@ Methodology
 6.Documentation:
   Prepare a comprehensive documentation summarizing the steps involved in the analysis, including the preprocessing techniques, machine learning algorithms used, and their performance. Include visualizations and interpretations to effectively communicate the results.
 
-Conclusion
+**Conclusion**
   The Industrial Copper Modeling project aims to predict the selling price and status in the industrial copper market using machine learning techniques
 
-  Links :
+  **Links :**
 
-  YouTube  : https://youtu.be/WM5ZWuMs4Ms
-  LinkedIn : https://www.linkedin.com/in/ms-mgr-agri/
+  * **YouTube  :** https://youtu.be/WM5ZWuMs4Ms
+  * **LinkedIn :** https://www.linkedin.com/in/ms-mgr-agri/
