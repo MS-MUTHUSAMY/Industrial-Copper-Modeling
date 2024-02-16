@@ -34,22 +34,22 @@ Make sure these libraries are installed in your Python environment before runnin
 
 **Methodology**
 
-1.Data Loading:
+**1.Data Loading:**
   Load the industrial copper dataset into the code using pandas library. Perform initial data exploration to understand the structure and content of the dataset.
 
-2.Data Cleaning and Preprocessing: 
+**2.Data Cleaning and Preprocessing: **
   Handle missing values, remove outliers if necessary, and perform necessary data transformations such as encoding categorical variables. This step ensures the data is in a suitable format for analysis.
 
-3.Exploratory Data Analysis (EDA): 
+**3.Exploratory Data Analysis (EDA): **
   Use pandas, matplotlib, and seaborn libraries to explore the dataset. Analyze different variables, their distributions, and relationships. Generate visualizations such as histograms, scatter plots, or box plots to gain insights into the data.
 
-4.Machine Learning Regression:  
+**4.Machine Learning Regression:  **
   Apply various machine learning regression algorithms to predict the selling price of industrial copper. Split the dataset into training and testing sets, train the models, and evaluate their performance using metrics such as mean squared error (MSE).
 
-5.Machine Learning Classification: 
+**5.Machine Learning Classification: **
   Apply different machine learning classification algorithms to predict the status (won or lost) of copper transactions. Split the dataset into training and testing sets, train the models, and evaluate their performance using metrics such as accuracy, precision, and recall.
 
-6.Documentation:
+**6.Documentation:**
   Prepare a comprehensive documentation summarizing the steps involved in the analysis, including the preprocessing techniques, machine learning algorithms used, and their performance. Include visualizations and interpretations to effectively communicate the results.
 
 **Conclusion**
